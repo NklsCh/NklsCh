@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Niklas or Ian
+- 👋 Hi, I’m Niklas or Ian, 18 y.o.
 - 🌱 I’m currently learning JavaScript
 - 💻 Already got my hands on Java, HTMl, CSS and a bit of python
 
