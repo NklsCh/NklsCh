@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nklsch)](https://github.com/nklsch/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nklsch&theme=onedark)](https://github.com/nklsch/github-profile-trophy)
 
 
 # 💻 Tech Stack:
