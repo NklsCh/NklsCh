@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nklsch" alt="nklsch" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/v3rm1n01" target="blank"><img src="https://img.shields.io/twitter/follow/nklsch?logo=twitter&style=for-the-badge" alt="nklsch" /></a> </p>
-
 - 🔭 I’m currently working on [Proton - A Discord Bot](https://github.com/Proton-Bot-Development/Proton)
 
 - 🌱 I’m currently learning **RapidClipse**
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/v3rm1n01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nklsch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niklas-choinowski-00893a273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niklas-choinowski-00893a273" height="30" width="40" /></a>
 <a href="https://instagram.com/nkls.ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkls.ch" height="30" width="40" /></a>
 <a href="https://discord.gg/FnMh7zc9gW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FnMh7zc9gW" height="30" width="40" /></a>
