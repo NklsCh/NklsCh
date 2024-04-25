@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nklsch" alt="nklsch" /></a> </p>
 
+- 💻 I use NixOS btw :)
+
 - 🔭 I’m currently working on [Proton - A Discord Bot](https://github.com/Proton-Bot-Development/Proton)
 
 - 🌱 I’m currently learning **RapidClipse**
