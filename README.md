@@ -1,24 +1,94 @@
-<h1 align="center">Hi, I'm Niklas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nklsch&label=Profile%20views&color=0e75b6&style=flat" alt="nklsch" /> </p>
+# 📜 About me
+[![visitcount](https://visitcount.itsvg.in/api?id=nklsch&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
+```elixir
+const createUser = () => {
+  const user = {
+    name: "Niklas Choinowski",
+    role: "Software Developer",
+    languages: ["German", "English"]
+  };
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nklsch" alt="nklsch" /></a> </p>
+  const userInfo = `
+    Name: ${user.name}
+    Role: ${user.role}
+    Spoken Languages: ${user.languages.join(", ")}
+  `;
 
-- I use NixOS btw :)
+  console.log(userInfo);
+};
 
-- I’m currently working on [Proton - A Discord Bot](https://github.com/Proton-Bot-Development/Proton)
+createUser();
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niklas-choinowski-00893a273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niklas-choinowski-00893a273" height="30" width="40" /></a>
-<a href="https://instagram.com/nkls.ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkls.ch" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://nixos.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" alt="bootstrap" width="40" height="40"/> </p>
+```
+## 🛠️ Skills 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nchoini"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nchoini" /></a></p><br><br><br>
+<details open>
+  <summary><b>📌 Programming languages</b></summary>
+  <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nklsch&show_icons=true&locale=en" alt="nklsch" /></p>
+[![Programming Languages](https://skillicons.dev/icons?i=js,java,cs,bash,nix)](https://skillicons.dev)
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nklsch&" alt="nklsch" /></p>
+<details open>
+  <summary><b>📚 Libraries and Frameworks</b></summary>
+  <br>
+
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=nodejs,bootstrap)](https://skillicons.dev)
+</details>
+
+<details open>
+  <summary><b>🎨 Markup and Style Languages</b></summary>
+  <br>
+
+[![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
+</details>
+
+<details open>
+  <summary><b>🧠 DevOps</b></summary>
+  <br>
+
+[![DevOps Tools](https://skillicons.dev/icons?i=docker,azure)](https://skillicons.dev)
+</details>
+
+<details open>
+  <summary><b>🗄️ Databases</b></summary>
+  <br>
+    
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+</details>
+
+<details open>
+  <summary><b>🔧 Software and Tools</b></summary>
+  <br>
+    
+[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian)](https://skillicons.dev)
+</details>
+
+## 📊 Github stats and extras
+
+<details>
+  <summary><b>🧬 Public statuses</b></summary>
+  <br>
+  
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nklsch&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nklsch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
+
+</details>
+<br>
+
+<details>
+  <summary><b>🏆 Trophies</b></summary>
+<br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=nklsch&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+</details>
+
+<br>
+
+<details>
+  <summary><b>🔥 Streak</b></summary>
+  <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nklsch&theme=transparent&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+</details>
