@@ -27,7 +27,7 @@ createUser();
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,java,cs,bash,nix)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,java,cs,bash,nix,php)](https://skillicons.dev)
 </details>
 
 <details open>
