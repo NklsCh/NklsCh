@@ -1,5 +1,9 @@
 # 📜 About me
-[![visitcount](https://visitcount.itsvg.in/api?id=nklsch&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/363383882315464705?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/363383882315464705)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/363383882315464705)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/363383882315464705)](https://dev.discordprofiles.me/openspotify/363383882315464705)
+
 ```elixir
 const createUser = () => {
   const user = {
