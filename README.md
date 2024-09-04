@@ -1,8 +1,9 @@
 # 📜 About me
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/363383882315464705?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/363383882315464705)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/363383882315464705)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/363383882315464705)](https://dev.discordprofiles.me/openspotify/363383882315464705)
+![status](https://api.statusbadges.me/badge/status/363383882315464705?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/363383882315464705)
+![vscode](https://api.statusbadges.me/badge/vscode/363383882315464705)
+![intellij](https://api.statusbadges.me/badge/intellij/363383882315464705)
+[![spotify](https://api.statusbadges.me/badge/spotify/363383882315464705)](https://api.statusbadges.me/openspotify/363383882315464705)
 
 ```elixir
 const createUser = () => {
