@@ -76,8 +76,8 @@ createUser();
   <summary><b>🧬 Public statuses</b></summary>
   <br>
   
-<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nklsch&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
-<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nklsch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nklsch&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nklsch&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </details>
 <br>
@@ -95,5 +95,5 @@ createUser();
   <summary><b>🔥 Streak</b></summary>
   <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nklsch&theme=transparent&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nklsch&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </details>
