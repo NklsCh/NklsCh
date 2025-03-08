@@ -5,18 +5,20 @@
 ![intellij](https://api.statusbadges.me/badge/intellij/363383882315464705)
 [![spotify](https://api.statusbadges.me/badge/spotify/363383882315464705)](https://api.statusbadges.me/openspotify/363383882315464705)
 
-```elixir
+```javascript
 const createUser = () => {
   const user = {
-    name: "Niklas Choinowski",
+    name: "Niklas",
     role: "Software Developer",
-    languages: ["German", "English"]
+    languages: ["German", "English"],
+    interests: ["Cybersecurity", "Psychology", "Stoicism"]
   };
 
   const userInfo = `
     Name: ${user.name}
     Role: ${user.role}
     Spoken Languages: ${user.languages.join(", ")}
+    Interests: ${user.interests.join(", ")}
   `;
 
   console.log(userInfo);
