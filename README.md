@@ -99,3 +99,27 @@ createUser();
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nklsch&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </details>
+
+## 🔑 My Public key
+<details>
+  <summary><b>Public Key</b></summary>
+  <br>
+  
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEaAE2zhYJKwYBBAHaRw8BAQdAMxEEAAgP8+fE63pHXvtQOqEcR6+DAxZh
+gKG2TYDEzevNOW5pa2xhcy5jaG9pbm93c2tpQHByb3Rvbi5tZSA8bmlrbGFz
+LmNob2lub3dza2lAcHJvdG9uLm1lPsKPBBMWCABBBQJoATbOCRDbltHxqFJt
+hhYhBJJUtnbLHua9420YKtuW0fGoUm2GAhsDAh4BAhkBAwsJBwIVCAMWAAIF
+JwkCBwIAAPtZAQCtcrARXaJ5FamPl3Cq1BUiIFy8cb8eq8Jcg+XiNVLMRwEA
+rqZfcRl3QMuMB66ZxRwmnBrP5OH/QuBHOzW7UuPlEA7OOARoATbOEgorBgEE
+AZdVAQUBAQdAwldfSkOfW/yuckqsXeSblSSJJnSK5K3sOunl8rTDOUYDAQoJ
+wngEGBYIACoFAmgBNs4JENuW0fGoUm2GFiEEklS2dsse5r3jbRgq25bR8ahS
+bYYCGwwAALX5AP9zV52GVaXTHH2y7SWP+C0LDdlKUaNX4gpBzsgQ0bHapwEA
+m8QG7Q6662Iiigx2E5pFbmBMnyRQO2Izby4LnqEebwA=
+=C8n5
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
