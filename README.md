@@ -9,7 +9,7 @@
 const createUser = () => {
   const user = {
     name: "Niklas",
-    role: "Software Developer",
+    role: "Cyber Security Student",
     languages: ["German", "English"],
     interests: ["Cybersecurity", "Psychology", "Stoicism"]
   };
