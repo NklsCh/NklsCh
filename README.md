@@ -1,8 +1,6 @@
 # 📜 About me
 ![status](https://api.statusbadges.me/badge/status/363383882315464705?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/363383882315464705)
-![vscode](https://api.statusbadges.me/badge/vscode/363383882315464705)
-![intellij](https://api.statusbadges.me/badge/intellij/363383882315464705)
 [![spotify](https://api.statusbadges.me/badge/spotify/363383882315464705)](https://api.statusbadges.me/openspotify/363383882315464705)
 
 ```javascript
